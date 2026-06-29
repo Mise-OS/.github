@@ -1,33 +1,3 @@
-# Mise-OS
-
-**Everything in its place, before it hits production.**
-
-Mise-OS is a Git-native operating system for repo stewardship, pull request hygiene, automation, CI/CD, contributor workflows, and ethical AI-assisted development.
-
-We turn software chaos into coordinated service.
-
-## Core Stations
-
-| Station | Purpose |
-|---|---|
-| Mise Orchestra | Control plane for coordinated repo operations |
-| Mise Branch Steward | Branch recommendations, merge readiness, cleanup |
-| Mise PR | Pull request hygiene and review packets |
-| Repo Pet | Mascot-led repo roaming, onboarding, and branded interaction |
-| Mise Brigade de Repo | Repository stewardship and quality gates |
-| Mise Governance | Safety, review, approval, and human-in-the-loop rules |
-
-## Operating Principle
-
-Every agent has a role.  
-Every role has purpose.  
-Every repo has a station.  
-Every station serves the whole kitchen.
-
-## Signature
-
-Good People. Good Things in Motion.
-
 <!-- Mise OS README hero update: 2026-06-25 -->
 
 <p align="center">
@@ -173,32 +143,3 @@ Every folder is a station.
 Every file is an ingredient.  
 Every agent has a role.  
 Every role has purpose.
-
-# Mise OS Intro Assets
-
-The README hero currently uses:
-
-```text
-assets/brand/miseos-intro-poster.jpeg
-```
-
-For a full video export, add:
-
-```text
-assets/intro/miseos-intro.mp4
-```
-
-Keep the poster as the lightweight GitHub README fallback.
-
-# Mise OS Brand Assets
-
-This folder stages the uploaded Mise OS / Mise Orchestra brand boards, mascot sheets, and logo guide.
-
-Recommended naming:
-
-- `miseos-brand-system-01.jpeg`
-- `miseos-brand-system-02.jpeg`
-- `miseos-platform-architecture.jpeg`
-- `miseos-intro-poster.jpeg`
-- `mise-orchestra-asset-sheet.jpeg`
-- `mise-orchestra-logo-guide.jpeg`
